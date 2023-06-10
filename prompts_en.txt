@@ -1,0 +1,5 @@
+What is a perceptron and what is a Multi Layered Percetpron?
+What is the difference between Machine Learning and Deep Learning
+Explain the backpropagation algorithm.
+Describe who Geoff Hinton is and what was his role in developing Neural Networks?
+How can we detect whether a text is written by a human or a generative AI?
