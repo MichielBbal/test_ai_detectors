@@ -1,0 +1,10 @@
+Wat is een perceptron en wat is een multi layered perceptron?
+Wat is het verschil tussen machine leren en diep leren?
+Let het backpropagatie algoritme uit.
+Wie was Geoff Hinton en wat was zijn rol in de ontwikkeling van neurale netwerken?
+Hoe kunnen we onderscheid maken tussen een door een KI gegenereerde tekst en een door een mens geschreven tekst?
+Beschrijf het verschil tussen menselijke neuronen en kunstmatige neuronen
+Op welke manier zal generatieve KI de wereld gaan veranderen?
+Wat was er zo belangrijk aan het taalmodel BERT in het vak NLP.
+Leg uit waarom Meta's LLaMA beter is dan GPT3.5
+Wat zijn Gaussian Mixtures?

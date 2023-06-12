@@ -3,3 +3,8 @@ What is the difference between Machine Learning and Deep Learning
 Explain the backpropagation algorithm.
 Describe who Geoff Hinton is and what was his role in developing Neural Networks?
 How can we detect whether a text is written by a human or a generative AI?
+Describe the difference between human and artificial neurons
+In what way will generative AI transform the world
+Why was the language model BERT important for the field of NLP
+Explain why Meta's LLamA is better than GPT3.5?
+Explain what Gaussian Mixtures are.
