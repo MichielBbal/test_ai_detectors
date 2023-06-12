@@ -1,2 +1,2 @@
 # test_ai_detectors
-Code to test ai detectors
+A notebook to test if text is either AI generated or written by a human.
